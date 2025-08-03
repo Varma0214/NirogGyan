@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Sarah Chen",
+    "specialization": "Pediatrics",
+    "image": "https://res.cloudinary.com/duccim6pz/image/upload/v1754153420/WhatsApp_Image_2025-08-02_at_22.12.12_18c7e71d_g5ri2s.jpg",
+    "availabilityStatus": "Available Today",
+    "bio": "Dr. Chen is a board-certified pediatrician with over 15 years of experience...",
+    "schedule": [
+      { "date": "2025-08-10", "times": ["9:00 AM", "10:00 AM", "11:00 AM"] },
+      { "date": "2025-08-11", "times": ["1:00 PM", "2:00 PM"] }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Dr. Mark Rodriguez",
+    "specialization": "Cardiology",
+    "image": "https://res.cloudinary.com/duccim6pz/image/upload/v1754152300/WhatsApp_Image_2025-08-02_at_22.00.50_e9a08d64_d4bjxr.jpg",
+    "availabilityStatus": "Fully Booked",
+    "bio": "Dr. Rodriguez specializes in cardiovascular health...",
+    "schedule": [
+      { "date": "2025-08-12", "times": [] },
+      { "date": "2025-08-13", "times": ["10:00 AM", "11:00 AM"] }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Dr. Emily Carter",
+    "specialization": "Dermatology",
+    "image": "https://res.cloudinary.com/duccim6pz/image/upload/v1754145904/ChatGPT_Image_Aug_2_2025_08_06_51_PM_jkzl0l.png",
+    "availabilityStatus": "On Leave",
+    "bio": "Dr. Carter is an expert in skin and hair conditions...",
+    "schedule": []
+  },
+  {
+    "id": 4,
+    "name": "Dr. David Lee",
+    "specialization": "Neurology",
+    "image": "https://res.cloudinary.com/duccim6pz/image/upload/v1754146100/ChatGPT_Image_Aug_2_2025_08_14_59_PM_mtutqd.png",
+    "availabilityStatus": "Available Today",
+    "bio": "Dr. Lee focuses on the diagnosis and treatment of nervous system disorders...",
+    "schedule": [
+      { "date": "2025-08-10", "times": ["1:00 PM", "2:00 PM", "3:00 PM"] },
+      { "date": "2025-08-11", "times": ["9:00 AM", "10:00 AM"] }
+    ]
+  },
+
+  {
+    "id": 5,
+    "name": "Dr. Jessica Hayes",
+    "specialization": "Orthopedics",
+    "image": "https://res.cloudinary.com/duccim6pz/image/upload/v1754148892/ChatGPT_Image_Aug_2_2025_08_43_16_PM_wi8joh.png",
+    "availabilityStatus": "Available Today",
+    "bio": "Dr. Hayes specializes in the treatment of musculoskeletal system disorders, including sports injuries, joint pain, and fractures.",
+    "schedule": [
+      { "date": "2025-08-10", "times": ["10:00 AM", "11:00 AM", "12:00 PM"] },
+      { "date": "2025-08-12", "times": ["2:00 PM", "3:00 PM"] }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Dr. Michael Davies",
+    "specialization": "Ophthalmology",
+    "image": "https://res.cloudinary.com/duccim6pz/image/upload/v1754148892/ChatGPT_Image_Aug_2_2025_08_45_19_PM_ld8nbb.png",
+    "availabilityStatus": "Fully Booked",
+    "bio": "Dr. Davies is a highly-skilled ophthalmologist providing comprehensive eye care, from routine exams to advanced surgical procedures.",
+    "schedule": [
+      { "date": "2025-08-11", "times": [] },
+      { "date": "2025-08-13", "times": ["9:00 AM", "10:00 AM", "11:00 AM"] }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Dr. Anya Sharma",
+    "specialization": "Gastroenterology",
+    "image": "https://res.cloudinary.com/duccim6pz/image/upload/v1754154280/ChatGPT_Image_Aug_2_2025_10_33_52_PM_bthguc.png",
+    "availabilityStatus": "Available Today",
+    "bio": "Dr. Sharma focuses on digestive system disorders, offering expert care for conditions like IBS, Crohn's disease, and liver diseases.",
+    "schedule": [
+      { "date": "2025-08-10", "times": ["9:30 AM", "10:30 AM", "11:30 AM"] },
+      { "date": "2025-08-14", "times": ["1:30 PM", "2:30 PM"] }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Dr. Ben Miller",
+    "specialization": "Oncology",
+    "image": "https://res.cloudinary.com/duccim6pz/image/upload/v1754151035/ChatGPT_Image_Aug_2_2025_09_39_58_PM_frrfzf.png",
+    "availabilityStatus": "Available Today",
+    "bio": "Dr. Miller is an oncologist specializing in cancer treatment. His practice is committed to providing personalized, evidence-based care to patients.",
+    "schedule": [
+      { "date": "2025-08-10", "times": ["1:00 PM", "2:00 PM"] },
+      { "date": "2025-08-15", "times": ["10:00 AM", "11:00 AM"] }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Dr. Laura Thompson",
+    "specialization": "Psychiatry",
+    "image": "https://res.cloudinary.com/duccim6pz/image/upload/v1754153370/ChatGPT_Image_Aug_2_2025_10_18_43_PM_hzdrbb.png",
+    "availabilityStatus": "Available Today",
+    "bio": "Dr. Thompson is a psychiatrist who helps patients with mental and behavioral health issues, offering therapy and medication management.",
+    "schedule": [
+      { "date": "2025-08-11", "times": ["9:00 AM", "11:00 AM"] },
+      { "date": "2025-08-12", "times": ["1:00 PM", "2:00 PM"] }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Dr. Robert Garcia",
+    "specialization": "Endocrinology",
+    "image": "https://res.cloudinary.com/duccim6pz/image/upload/v1754154895/ChatGPT_Image_Aug_2_2025_10_43_03_PM_jq1xrf.png",
+    "availabilityStatus": "Fully Booked",
+    "bio": "Dr. Garcia specializes in the endocrine system, treating conditions such as diabetes, thyroid disorders, and hormonal imbalances.",
+    "schedule": [
+      { "date": "2025-08-13", "times": [] },
+      { "date": "2025-08-14", "times": ["10:00 AM", "11:00 AM"] }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Dr. Jane Wilson",
+    "specialization": "Rheumatology",
+    "image": "https://res.cloudinary.com/duccim6pz/image/upload/v1754151640/ChatGPT_Image_Aug_2_2025_09_49_55_PM_tm56vr.png",
+    "availabilityStatus": "Available Today",
+    "bio": "Dr. Wilson provides expert care for patients with musculoskeletal disease and systemic autoimmune conditions.",
+    "schedule": [
+      { "date": "2025-08-10", "times": ["1:00 PM", "2:00 PM"] },
+      { "date": "2025-08-12", "times": ["9:00 AM", "10:00 AM"] }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Dr. Kenji Tanaka",
+    "specialization": "Allergy & Immunology",
+    "image": "https://res.cloudinary.com/duccim6pz/image/upload/v1754148888/WhatsApp_Image_2025-08-02_at_21.01.07_719efa28_dncqbl.jpg",
+    "availabilityStatus": "On Leave",
+    "bio": "Dr. Tanaka specializes in treating allergies, asthma, and immune system disorders to help patients find relief and improve their quality of life.",
+    "schedule": []
+  },
+  {
+    "id": 13,
+    "name": "Dr. Priya Patel",
+    "specialization": "Nephrology",
+    "image": "https://res.cloudinary.com/duccim6pz/image/upload/v1754152480/ChatGPT_Image_Aug_2_2025_10_04_14_PM_wakh5t.png",
+    "availabilityStatus": "Available Today",
+    "bio": "Dr. Patel focuses on the diagnosis and management of kidney disease, offering comprehensive care including dialysis and transplant follow-up.",
+    "schedule": [
+      { "date": "2025-08-11", "times": ["1:00 PM", "2:00 PM", "3:00 PM"] },
+      { "date": "2025-08-13", "times": ["9:00 AM", "10:00 AM"] }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Dr. Alex Green",
+    "specialization": "Urology",
+    "image": "https://res.cloudinary.com/duccim6pz/image/upload/v1754148994/ChatGPT_Image_Aug_2_2025_08_52_06_PM_rwyrhv.png",
+    "availabilityStatus": "Available Today",
+    "bio": "Dr. Green is a urologist who treats conditions affecting the urinary tract and male reproductive system.",
+    "schedule": [
+      { "date": "2025-08-10", "times": ["9:00 AM", "10:00 AM"] },
+      { "date": "2025-08-15", "times": ["2:00 PM", "3:00 PM", "4:00 PM"] }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Dr. Sophia Lee",
+    "specialization": "Dentistry",
+    "image": "https://res.cloudinary.com/duccim6pz/image/upload/v1754151216/WhatsApp_Image_2025-08-02_at_21.43.15_cca54e98_ywwmvy.jpg",
+    "availabilityStatus": "Fully Booked",
+    "bio": "Dr. Lee provides a full range of dental services, from routine checkups and cleanings to complex restorative and cosmetic procedures.",
+    "schedule": [
+      { "date": "2025-08-12", "times": [] },
+      { "date": "2025-08-14", "times": ["9:00 AM", "10:00 AM"] }
+    ]
+  }
+]
